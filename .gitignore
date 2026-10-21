@@ -1,0 +1,30 @@
+# Environment Variables and Credentials
+.env
+.env.*
+application-local.properties
+*.secret
+*.pem
+*.key
+
+# Maven / Java
+backend/target/
+backend/.mvn/timing.properties
+backend/.mvn/wrapper/maven-wrapper.jar
+*.class
+*.jar
+*.war
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/.eslintcache
+*.local
+
+# IDEs & System
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+*.log
