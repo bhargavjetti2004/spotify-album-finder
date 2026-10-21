@@ -55,6 +55,24 @@ public class SpotifyService {
         CURATED_CATALOG.add(new Album("5s0ALVDZ3p9KeqrE09H6K7", "24K Magic", "Bruno Mars", "2016-11-18", 9, 87, "https://i.scdn.co/image/ab67616d0000b273c5d76d498670c538749a0ec9", "https://open.spotify.com/album/5s0ALVDZ3p9KeqrE09H6K7"));
         CURATED_CATALOG.add(new Album("30us4M603uF7pXWq3kF4k8", "30", "Adele", "2021-11-19", 12, 86, "https://i.scdn.co/image/ab67616d0000b273a58f0e572099307779b5c3ff", "https://open.spotify.com/album/30us4M603uF7pXWq3kF4k8"));
         CURATED_CATALOG.add(new Album("0ptnKffgG9k5lKk9sJmR9Q", "21", "Adele", "2011-01-24", 11, 88, "https://i.scdn.co/image/ab67616d0000b2730f40d4b9718442e05951d7c3", "https://open.spotify.com/album/0ptnKffgG9k5lKk9sJmR9Q"));
+
+        // Bollywood & Indian Music Legends
+        CURATED_CATALOG.add(new Album("1I54vYc03uN3dD9NkJQ75Z", "Rockstar", "A.R. Rahman", "2011-09-30", 14, 91, "https://i.scdn.co/image/ab67616d0000b273b069d2a450e18146aaecae20", "https://open.spotify.com/album/1I54vYc03uN3dD9NkJQ75Z"));
+        CURATED_CATALOG.add(new Album("3I55vYc04uN3dD9NkJQ88A", "Dil Se..", "A.R. Rahman", "1998-07-11", 6, 85, "https://i.scdn.co/image/ab67616d0000b273c069d2a450e18146aaecae21", "https://open.spotify.com/album/3I55vYc04uN3dD9NkJQ88A"));
+        CURATED_CATALOG.add(new Album("4K72wYb12mP8kL7HjQ33Wz", "Aashiqui 2", "Arijit Singh & Mithoon", "2013-04-08", 11, 94, "https://i.scdn.co/image/ab67616d0000b27393452b1ec311bc7d251bc8b9", "https://open.spotify.com/album/4K72wYb12mP8kL7HjQ33Wz"));
+        CURATED_CATALOG.add(new Album("2M89kLc33nP4xL8HjQ55Rx", "Kabir Singh", "Arijit Singh & Sachet-Parampara", "2019-06-14", 9, 93, "https://i.scdn.co/image/ab67616d0000b2733d3b76928812c3f58e1c6261", "https://open.spotify.com/album/2M89kLc33nP4xL8HjQ55Rx"));
+        CURATED_CATALOG.add(new Album("7L91xMe44qP5yL9HjQ77Ty", "Yeh Jawaani Hai Deewani", "Pritam", "2013-04-29", 10, 92, "https://i.scdn.co/image/ab67616d0000b27329598a69a039750d0eb3f8a4", "https://open.spotify.com/album/7L91xMe44qP5yL9HjQ77Ty"));
+        CURATED_CATALOG.add(new Album("5N12zPe55rQ6zL1HjQ88Vw", "Leo (Original Motion Picture Soundtrack)", "Anirudh Ravichander", "2023-10-19", 7, 90, "https://i.scdn.co/image/ab67616d0000b27357c919a0a039750d0eb3f8b5", "https://open.spotify.com/album/5N12zPe55rQ6zL1HjQ88Vw"));
+        CURATED_CATALOG.add(new Album("6O33aQf66sR7aM2HjQ99Xy", "Jawan", "Anirudh Ravichander", "2023-09-05", 7, 89, "https://i.scdn.co/image/ab67616d0000b273d4a20b12bc12bc7d251bc8c0", "https://open.spotify.com/album/6O33aQf66sR7aM2HjQ99Xy"));
+
+        // Global Pop, Hip-Hop & Rock Superstars
+        CURATED_CATALOG.add(new Album("1ATL5GLyef8ucheqEgYcuP", "Scorpion", "Drake", "2018-06-29", 25, 92, "https://i.scdn.co/image/ab67616d0000b273365b3fb800c19f7ff72602da", "https://open.spotify.com/album/1ATL5GLyef8ucheqEgYcuP"));
+        CURATED_CATALOG.add(new Album("2o5jDhtHVPhrJdv3cEQ99Z", "The Eminem Show", "Eminem", "2002-05-26", 20, 90, "https://i.scdn.co/image/ab67616d0000b2736ca260862080a2b0d0c3eb1a", "https://open.spotify.com/album/2o5jDhtHVPhrJdv3cEQ99Z"));
+        CURATED_CATALOG.add(new Album("5r36AJflADdoQmHpVdcC9V", "Harry's House", "Harry Styles", "2022-05-20", 13, 89, "https://i.scdn.co/image/ab67616d0000b2732e8f63710beea1cb620085ff", "https://open.spotify.com/album/5r36AJflADdoQmHpVdcC9V"));
+        CURATED_CATALOG.add(new Album("6s84u2TUpR3wdUv4NgKA2f", "SOUR", "Olivia Rodrigo", "2021-05-21", 11, 88, "https://i.scdn.co/image/ab67616d0000b273a91c10fe9472d9bd89802e5a", "https://open.spotify.com/album/6s84u2TUpR3wdUv4NgKA2f"));
+        CURATED_CATALOG.add(new Album("35UJLpDV5IL4XYNyfnLQIM", "Evolve", "Imagine Dragons", "2017-06-23", 11, 87, "https://i.scdn.co/image/ab67616d0000b273b2b248a5707c71bbf94f0612", "https://open.spotify.com/album/35UJLpDV5IL4XYNyfnLQIM"));
+        CURATED_CATALOG.add(new Album("6mUdeDZCsExyJLMpAfDuwh", "Map of the Soul: 7", "BTS", "2020-02-21", 20, 89, "https://i.scdn.co/image/ab67616d0000b273634024479e008269e944ef0a", "https://open.spotify.com/album/6mUdeDZCsExyJLMpAfDuwh"));
+        CURATED_CATALOG.add(new Album("2jJMY0Vw4O18x6G7hQ99Aa", "Hollywood's Bleeding", "Post Malone", "2019-09-06", 17, 88, "https://i.scdn.co/image/ab67616d0000b2739478c8759955038b37f6493f", "https://open.spotify.com/album/2jJMY0Vw4O18x6G7hQ99Aa"));
     }
 
     public synchronized String getAccessToken() {
