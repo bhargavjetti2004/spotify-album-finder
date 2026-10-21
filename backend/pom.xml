@@ -54,6 +54,13 @@
             <scope>runtime</scope>
         </dependency>
 
+        <!-- H2 Database for seamless cloud container fallback -->
+        <dependency>
+            <groupId>com.h2database</groupId>
+            <artifactId>h2</artifactId>
+            <scope>runtime</scope>
+        </dependency>
+
         <!-- JJWT Dependencies for JSON Web Token generation and verification -->
         <dependency>
             <groupId>io.jsonwebtoken</groupId>
