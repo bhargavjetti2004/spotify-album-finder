@@ -30,8 +30,10 @@ public class AlbumController {
     }
 
     @GetMapping("/search")
-    public ResponseEntity<List<Album>> searchAlbums(@RequestParam("query") String query,
+    public ResponseEntity<List<Album>> searchAlbums(@RequestParam(value = "query", required = false) String queryParam,
+                                                    @RequestParam(value = "q", required = false) String qParam,
                                                     Authentication authentication) {
+        String query = (queryParam != null && !queryParam.trim().isEmpty()) ? queryParam : qParam;
         if (query == null || query.trim().isEmpty()) {
             throw new IllegalArgumentException("Search query cannot be empty");
         }
