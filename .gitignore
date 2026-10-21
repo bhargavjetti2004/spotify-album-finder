@@ -28,3 +28,7 @@ frontend/.eslintcache
 .DS_Store
 Thumbs.db
 *.log
+
+# Eclipse / VS Code bin
+bin/
+backend/bin/
