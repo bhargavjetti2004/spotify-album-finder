@@ -211,3 +211,5 @@ git push -u origin main
 - Playlist generation directly into user's Spotify account.
 - Social sharing of comparison results.
 - Advanced multi-album tournaments (comparing 4 or more albums).
+#   s p o t i f y - a l b u m - f i n d e r  
+ 
