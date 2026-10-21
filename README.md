@@ -12,10 +12,10 @@
 [![JWT](https://img.shields.io/badge/JWT-JJWT_0.12.6-black.svg?style=for-the-badge&logo=jsonwebtokens)](https://jwt.io/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![React](https://img.shields.io/badge/React-18-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black)](https://react.dev/)
-[![Vite](https://img.shields.io/badge/Vite-5.4-646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
-[![Spotify API](https://img.shields.io/badge/Spotify-Web_API-1DB954.svg?style=for-the-badge&logo=spotify&logoColor=white)](https://developer.spotify.com/)
+[![Vercel](https://img.shields.io/badge/Frontend-Vercel_Live-000000.svg?style=for-the-badge&logo=vercel)](https://spotify-album-finder-88p4wf8by-bhargavjetti2004.vercel.app)
+[![Render](https://img.shields.io/badge/Backend-Render_Live-46E3B7.svg?style=for-the-badge&logo=render&logoColor=black)](https://spotify-album-finder-rslt.onrender.com)
 
-[Explore Features](#-key-features) • [System Architecture](#-system-architecture) • [Database Schema](#-database-schema) • [API Reference](#-api-endpoints) • [Quick Start](#-quick-start-guide)
+🚀 **[Live Web App Demo](https://spotify-album-finder-88p4wf8by-bhargavjetti2004.vercel.app)** • 🔌 **[Live REST API](https://spotify-album-finder-rslt.onrender.com)** • 📖 [Explore Features](#-key-features) • 🏗️ [Architecture](#-system-architecture)
 
 </div>
 
